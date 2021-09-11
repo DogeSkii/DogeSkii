@@ -11,11 +11,8 @@
 > Python
 
 ## Im learning
-> Java
 
-> Go
-
-###### Pogr
+#### Pogr
 ```
 
 ░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░
